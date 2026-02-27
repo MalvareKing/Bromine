@@ -1,0 +1,12 @@
+﻿  main-of-safe.cpp
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(27,51): warning C4244: '=': conversion from 'DWORD' to 'char', possible loss of data
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(42,55): warning C4244: '=': conversion from 'DWORD' to 'char', possible loss of data
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(57,42): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(57,56): warning C4244: '=': conversion from 'DWORD' to 'char', possible loss of data
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(72,42): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(72,57): warning C4244: '=': conversion from 'DWORD' to 'char', possible loss of data
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(98,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(99,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(99,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Bromine-safety\Bromine-safety\main-of-safe.cpp(110,10): warning C4101: 'v3': unreferenced local variable
+  Bromine-safety.vcxproj -> C:\Users\User\source\repos\Bromine-safety\Debug\Bromine-safety.exe
